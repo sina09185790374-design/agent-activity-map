@@ -1,0 +1,40 @@
+{"ts": "2026-11-15T10:00:00Z", "station": "you", "call": "Message", "duration_ms": 50, "status": "ok", "context_pct": 13.2, "model": "opus"}
+{"ts": "2026-11-15T10:00:01Z", "station": "model", "call": "Request", "duration_ms": 869, "status": "ok", "context_pct": 13.9, "model": "opus"}
+{"ts": "2026-11-15T10:00:02Z", "station": "memory", "call": "Recall", "duration_ms": 38, "status": "ok", "context_pct": 14.5, "model": "opus"}
+{"ts": "2026-11-15T10:00:03Z", "station": "files", "call": "Read", "duration_ms": 82, "status": "refused", "context_pct": 16.0, "model": "opus"}
+{"ts": "2026-11-15T10:00:04Z", "station": "files", "call": "Edit", "duration_ms": 144, "status": "ok", "context_pct": 17.5, "model": "opus"}
+{"ts": "2026-11-15T10:00:05Z", "station": "shell", "call": "Run", "duration_ms": 696, "status": "ok", "context_pct": 18.5, "model": "opus"}
+{"ts": "2026-11-15T10:00:06Z", "station": "model", "call": "Request", "duration_ms": 1733, "status": "ok", "context_pct": 20.4, "model": "opus"}
+{"ts": "2026-11-15T10:00:07Z", "station": "network", "call": "Fetch", "duration_ms": 711, "status": "ok", "context_pct": 21.0, "model": "opus"}
+{"ts": "2026-11-15T10:00:08Z", "station": "agents", "call": "Spawn", "duration_ms": 272, "status": "refused", "context_pct": 21.8, "model": "opus", "subagent": "reviewer"}
+{"ts": "2026-11-15T10:00:09Z", "station": "skills", "call": "Lookup", "duration_ms": 111, "status": "ok", "context_pct": 22.7, "model": "opus"}
+{"ts": "2026-11-15T10:00:10Z", "station": "files", "call": "Read", "duration_ms": 72, "status": "ok", "context_pct": 24.1, "model": "opus"}
+{"ts": "2026-11-15T10:00:11Z", "station": "shell", "call": "Run", "duration_ms": 486, "status": "ok", "context_pct": 24.7, "model": "opus"}
+{"ts": "2026-11-15T10:00:12Z", "station": "hooks", "call": "Check", "duration_ms": 29, "status": "ok", "context_pct": 26.2, "model": "opus"}
+{"ts": "2026-11-15T10:00:13Z", "station": "model", "call": "Request", "duration_ms": 1324, "status": "ok", "context_pct": 27.7, "model": "opus"}
+{"ts": "2026-11-15T10:00:14Z", "station": "browser", "call": "Open", "duration_ms": 704, "status": "ok", "context_pct": 29.8, "model": "opus"}
+{"ts": "2026-11-15T10:00:15Z", "station": "you", "call": "Message", "duration_ms": 53, "status": "ok", "context_pct": 31.5, "model": "opus"}
+{"ts": "2026-11-15T10:00:16Z", "station": "model", "call": "Request", "duration_ms": 646, "status": "ok", "context_pct": 32.7, "model": "opus"}
+{"ts": "2026-11-15T10:00:17Z", "station": "memory", "call": "Recall", "duration_ms": 45, "status": "ok", "context_pct": 34.2, "model": "opus"}
+{"ts": "2026-11-15T10:00:18Z", "station": "files", "call": "Read", "duration_ms": 152, "status": "error", "context_pct": 35.8, "model": "opus"}
+{"ts": "2026-11-15T10:00:19Z", "station": "files", "call": "Edit", "duration_ms": 295, "status": "ok", "context_pct": 38.1, "model": "opus"}
+{"ts": "2026-11-15T10:00:20Z", "station": "shell", "call": "Run", "duration_ms": 537, "status": "ok", "context_pct": 39.3, "model": "sonnet"}
+{"ts": "2026-11-15T10:00:21Z", "station": "model", "call": "Request", "duration_ms": 1583, "status": "ok", "context_pct": 41.1, "model": "sonnet"}
+{"ts": "2026-11-15T10:00:22Z", "station": "network", "call": "Fetch", "duration_ms": 1011, "status": "ok", "context_pct": 43.8, "model": "sonnet"}
+{"ts": "2026-11-15T10:00:23Z", "station": "agents", "call": "Spawn", "duration_ms": 374, "status": "ok", "context_pct": 44.4, "model": "sonnet", "subagent": "reviewer"}
+{"ts": "2026-11-15T10:00:24Z", "station": "skills", "call": "Lookup", "duration_ms": 88, "status": "ok", "context_pct": 46.8, "model": "sonnet"}
+{"ts": "2026-11-15T10:00:25Z", "station": "files", "call": "Read", "duration_ms": 116, "status": "error", "context_pct": 48.9, "model": "sonnet"}
+{"ts": "2026-11-15T10:00:26Z", "station": "shell", "call": "Run", "duration_ms": 250, "status": "refused", "context_pct": 49.7, "model": "sonnet"}
+{"ts": "2026-11-15T10:00:27Z", "station": "hooks", "call": "Check", "duration_ms": 21, "status": "refused", "context_pct": 52.0, "model": "sonnet"}
+{"ts": "2026-11-15T10:00:28Z", "station": "model", "call": "Request", "duration_ms": 646, "status": "ok", "context_pct": 53.4, "model": "sonnet"}
+{"ts": "2026-11-15T10:00:29Z", "station": "browser", "call": "Open", "duration_ms": 890, "status": "ok", "context_pct": 54.9, "model": "sonnet"}
+{"ts": "2026-11-15T10:00:30Z", "station": "you", "call": "Message", "duration_ms": 35, "status": "ok", "context_pct": 57.3, "model": "sonnet"}
+{"ts": "2026-11-15T10:00:31Z", "station": "model", "call": "Request", "duration_ms": 1335, "status": "ok", "context_pct": 58.8, "model": "sonnet"}
+{"ts": "2026-11-15T10:00:32Z", "station": "memory", "call": "Recall", "duration_ms": 46, "status": "ok", "context_pct": 61.5, "model": "sonnet"}
+{"ts": "2026-11-15T10:00:33Z", "station": "files", "call": "Read", "duration_ms": 130, "status": "ok", "context_pct": 62.5, "model": "sonnet"}
+{"ts": "2026-11-15T10:00:34Z", "station": "files", "call": "Edit", "duration_ms": 120, "status": "ok", "context_pct": 64.4, "model": "sonnet"}
+{"ts": "2026-11-15T10:00:35Z", "station": "shell", "call": "Run", "duration_ms": 524, "status": "ok", "context_pct": 65.8, "model": "sonnet"}
+{"ts": "2026-11-15T10:00:36Z", "station": "model", "call": "Request", "duration_ms": 1227, "status": "ok", "context_pct": 68.5, "model": "sonnet"}
+{"ts": "2026-11-15T10:00:37Z", "station": "network", "call": "Fetch", "duration_ms": 523, "status": "ok", "context_pct": 70.4, "model": "sonnet"}
+{"ts": "2026-11-15T10:00:38Z", "station": "agents", "call": "Spawn", "duration_ms": 442, "status": "ok", "context_pct": 73.0, "model": "sonnet", "subagent": "reviewer"}
+{"ts": "2026-11-15T10:00:39Z", "station": "skills", "call": "Lookup", "duration_ms": 63, "status": "ok", "context_pct": 74.4, "model": "sonnet"}
